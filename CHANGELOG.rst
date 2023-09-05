@@ -4,6 +4,88 @@ Changelog
 Only important changes are mentioned below. See `commit log <https://github.com/darklow/django-suit/commits/develop>`_, `closed issues <https://github.com/darklow/django-suit/issues?direction=desc&sort=updated&state=closed>`_ and `closed pull
 requests <https://github.com/darklow/django-suit/pulls?q=sort%3Aupdated-desc+is%3Apr+is%3Aclosed>`_ for full changes.
 
+v0.2.29 (2023-01-10)
+--------------------
+
+* [Fix] Django 4.1.4 compatibility fixes.
+
+
+v0.2.28 (2019-10-02)
+--------------------
+
+* [Fix] Django 2+ compatibility fixes.
+* [Fix] Fix menu not being seen for newest Chrome.
+* [Fix] Fixes by PR.
+
+
+v0.2.26 (2018-02-24)
+--------------------
+
+* [Fix] Django 2.0 support.
+* [Fix] Minor fixes by PR.
+
+
+v0.2.25 (2017-03-30)
+--------------------
+
+* [Fix] Fixes missing original time/date widget icons.
+* [Fix] Fixes missing menu when using with Django Channels.
+
+
+v0.2.24 (2017-01-27)
+--------------------
+
+* [Fix] Sortable inlines required fields detection fix (related to jQuery update).
+* [Fix] More precise SPAN selector not to mess up editors and other content in stacked inlines.
+
+
+v0.2.23 (2016-12-06)
+--------------------
+
+* [Fix] Fieldset newlines fix, jQuery tab fix and few other minor bugs by PR.
+
+
+v0.2.22 (2016-11-11)
+--------------------
+
+* [Fix] Upgrade to jQuery 2.2.4 when using Django >= 1.9
+
+
+v0.2.21 (2016-08-18)
+--------------------
+
+* [Fix] Django 1.10 compatibility and Travis tests fixes
+
+
+v0.2.20 (2016-08-09)
+--------------------
+
+* [Fix] Django 1.10 compatibility fixes `#526 <https://github.com/darklow/django-suit/pull/526>`_
+
+
+v0.2.19 (2016-06-23)
+--------------------
+
+* [Fix] Multiple fixes by Pull Requests
+
+
+v0.2.18 (2016-03-03)
+--------------------
+
+* [Fix] Django 1.9 time and date widgets fixes `#481 <https://github.com/darklow/django-suit/issues/481>`_
+
+
+v0.2.18 (2016-03-03)
+--------------------
+
+* [Fix] Django 1.9 time and date widgets fixes `#481 <https://github.com/darklow/django-suit/issues/481>`_
+
+
+v0.2.17 (2016-02-23)
+--------------------
+
+* [Fix] Django 1.9 and Python 3 Compatibility fixes.
+
 
 v0.2.16 (2016-01-16)
 --------------------
